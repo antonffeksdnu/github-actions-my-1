@@ -2,7 +2,7 @@
 
 
 Status of Last Deployment:<br>
-<img src="https://github.com/antonffeksdnu/github-actions-my-1/workflows/My-GitHubActions-Basics/badge.svg?branch=master"><br>
+<img src="https://github.com/antonffeksdnu/github-actions-my-1/workflows/github-actions-my-1/badge.svg?branch=master"><br>
 
 
 Copyleft by Anton Zverev antonffeksdnu 2022(c).
