@@ -1,6 +1,6 @@
 # ---------------------------------------Action github by Zverev Anton -----------------
 #                                         Copyleft (c) by Anton Zverev------------------
-name: My-GitHubActions-Basics
+name: github-actions-my-1
 env:
   APPLICATION_NAME    : "MyFlask"
   DEPLOY_PACKAGE_NAME : "flask-deploy-ver-${{ github.sha }}"
